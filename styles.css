@@ -13,12 +13,14 @@ line-height: calc(24/16);
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
-.logo-black {
-color: var(--black-txt-cl)}
-.logo-link {
-    font-family: var(--secondary-font);
-    font-weight: 700;
-    font-size: 26px;
-    line-height: calc(31 / 26);
-    color: var(--accent-txt-cl);
-  }
+
+.contakt-link{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: calc(24/16);
+letter-spacing: 0.02em;
+
+color: #2E2F42;
+}
