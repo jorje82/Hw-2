@@ -16,31 +16,23 @@
     }
 
 .logo-link {
-    font-family: var(--secondary-font);
-    font-weight: 700;
-    font-size: 26px;
-    line-height: calc(31 / 26);
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
     color: var(--accent-txt-color);
   }
  .logo-black{
     color: var(--titel-text-color);
  }
-.navigation menu-link {
-    color: #2E2F42;
-}
-.navigation .menu-link:hover,
-.navigation .menu-link:focus {
-    color: #4D5AE5;
-}
 
-
-
-.advantades-title {
+.h3 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: calc(24/20);
     color: var(--titel-text-color);
 }
 .advantades-article {
@@ -48,24 +40,22 @@
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: calc(24/16);
 color: var(--bazic-text-color);
 }
 
-
-
-
-
-
-
-.menu-link{
+.navigation .menu-link{
+    color: var(--titel-text-color);
+}
+.navigation .menu-link:hover,
+.navigation .menu-link:focus {
     font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
-color: #2E2F42;
+color: var(--accent-txt-color);
 }
 
 .contakt-link{
@@ -73,8 +63,7 @@ color: #2E2F42;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: calc(24/16);
+line-height: calc(14/12);
 letter-spacing: 0.02em;
-
-color: #2E2F42;
+color: var(--bazic-text-color);
 }
