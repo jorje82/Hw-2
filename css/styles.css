@@ -8,15 +8,7 @@
     --accent-txt-color: #4D5AE5;
     --hove-ocean-color :#404BBF;
 }
-.body{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: calv(24/16);
-letter-spacing: 0.02em;
-    color: var(--bazic-text-color);
-}
+
 .list{
     list-style: none;}
 
@@ -27,6 +19,9 @@ letter-spacing: 0.02em;
 .hero {
         background-color: var(--titel-text-color);
       }
+
+
+
 .hero-title{
     font-family: 'Roboto';
 font-style: normal;
@@ -49,11 +44,30 @@ color: var(--white-text-color);
     letter-spacing: 0.06em;
     color: var(--white-text-color);
   }
-  .hero-button:hover {
+ 
+ .hero-button:hover {
     background: var(--hove-ocean-color);
   }
 
-.logo-link {
+  .contakt-link:hover{
+color: var(--accent-txt-color);
+}
+.contakt-link{
+    font-family: var(--main-font);
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: calc(24/16);
+letter-spacing: 0.02em;
+color: var(--bazic-text-color);
+}
+
+
+
+
+.logo-link{
+  background: var(--white-text-color);}
+.logo-link{
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
@@ -92,11 +106,13 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--titel-text-color);
 }
-.navigation .menu-link{
+
+.menu-link{
     color: var(--titel-text-color);
 }
-.navigation .menu-link:hover,
-.navigation .menu-link:focus {
+
+.menu-link:hover,
+.menu-link:focus {
     font-family: var(--main-font);
 font-style: normal;
 font-weight: 500;
@@ -106,15 +122,6 @@ letter-spacing: 0.02em;
 color: var(--accent-txt-color);
 }
 
-.contakt-link{
-    font-family: var(--main-font);
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: calc(14/12);
-letter-spacing: 0.02em;
-color: var(--bazic-text-color);
-}
 .portfolio-title{
     font-family: var(--main-font);
 font-style: normal;
