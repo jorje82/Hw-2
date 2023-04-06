@@ -1,3 +1,44 @@
+:root{
+    --bazic-text-color: #434455;
+    --titel-text-color: #2E2F42;
+    --white-text-color: #FFFFFF;
+    --accent-txt-color: #4D5AE5;
+}
+
+
+.navigation menu-link {
+    color: #2E2F42;
+}
+.navigation .menu-link:hover,
+.navigation .menu-link:focus {
+    color: #4D5AE5;
+}
+
+.body{
+    color:var(--bazic-text-color);
+}
+
+.advantades-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: var(--titel-text-color);
+}
+.advantades-article {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: var(--bazic-text-color);
+}
+
+
+
+
+
 .list{
     list-style: none;}
 
