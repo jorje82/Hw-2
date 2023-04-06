@@ -4,8 +4,27 @@
     --white-text-color: #FFFFFF;
     --accent-txt-color: #4D5AE5;
 }
+.body{
+    color: var(--bazic-text-color);
+}
+.list{
+    list-style: none;}
 
+.link {
+        text-decoration: none;
+        color: currentColor;
+    }
 
+.logo-link {
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: calc(31 / 26);
+    color: var(--accent-txt-color);
+  }
+ .logo-black{
+    color: var(--titel-text-color);
+ }
 .navigation menu-link {
     color: #2E2F42;
 }
@@ -14,9 +33,7 @@
     color: #4D5AE5;
 }
 
-.body{
-    color:var(--bazic-text-color);
-}
+
 
 .advantades-title {
     font-family: 'Roboto';
@@ -39,11 +56,7 @@ color: var(--bazic-text-color);
 
 
 
-.list{
-    list-style: none;}
 
-.link {
-        text-decoration: none;}
 
 .menu-link{
     font-family: 'Roboto';
@@ -65,10 +78,3 @@ letter-spacing: 0.02em;
 
 color: #2E2F42;
 }
-.logo-link {
-    font-family: var(--secondary-font);
-    font-weight: 700;
-    font-size: 26px;
-    line-height: calc(31 / 26);
-    color: var(--accent-txt-cl);
-  }
