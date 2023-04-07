@@ -52,10 +52,7 @@
   color: #ffffff;
   cursor: pointer;
 }
-.projects-btn:hover,
-.projects-btn:focus {
-background-color: #404bbf;
-}
+
 
 .project-btn-txt{
   font-family: 'Roboto', sans-serif;
