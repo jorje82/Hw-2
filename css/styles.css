@@ -18,15 +18,16 @@
     }
 
 .hero {
-        background-color: var(--titel-text-color);
+        
       }
 .body{
-    font-family: var(--main-font);
+    font-family: 'Roboto';
  font-weight: 400;
  font-size: 16px;
  line-height: calc(24/16);
  letter-spacing: 0.02em;
- color: var(--bazic-text-color);
+ color: #434455;
+ background-color: #FFFFFF;
 }
 
 .hero-title{
