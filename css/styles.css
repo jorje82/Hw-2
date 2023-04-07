@@ -16,15 +16,21 @@
         text-decoration: none;
         color: currentColor;
     }
+
 .hero {
         background-color: var(--titel-text-color);
       }
-
-
+.body{
+    font-family: var(--main-font);
+ font-style: normal;
+ font-weight: 400;
+ font-size: 16px;
+ line-height: calc(24/16);
+ letter-spacing: 0.02em;
+ color: var(--bazic-text-color);
+}
 
 .hero-title{
-    font-family: 'Roboto';
-font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 60px;
@@ -33,7 +39,6 @@ letter-spacing: 0.02em;
 color: var(--white-text-color);
 }   
 .hero-button {
-    font-family: var(--main-font);
     font-weight: 700;
     font-size: 16px;
     line-height: calc(30 / 16);
@@ -49,27 +54,21 @@ color: var(--white-text-color);
     background: var(--hove-ocean-color);
   }
 
-  .contakt-link:hover{
+.contakt-link:hover{
 color: var(--accent-txt-color);
 }
-.contakt-link{
-    font-family: var(--main-font);
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: calc(24/16);
-letter-spacing: 0.02em;
+.body.contakt-link{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: calc(24/16);
 color: var(--bazic-text-color);
 }
-
-
-
 
 .logo-link{
   background: var(--white-text-color);}
 .logo-link{
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: calc(21/18);
@@ -80,24 +79,17 @@ color: var(--bazic-text-color);
  }
 
 .h3 {
-    font-family: var(--main-font);
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: calc(24/20);
     color: var(--titel-text-color);
 }
 .advantades-article {
-    font-family: var(--main-font);
-font-style: normal;
-font-weight: 400;
 font-size: 16px;
 line-height: calc(24/16);
 color: var(--bazic-text-color);
 }
 .section-title{
-    font-family: var(--main-font);
-font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: calc(40/36);
@@ -113,8 +105,6 @@ color: var(--titel-text-color);
 
 .menu-link:hover,
 .menu-link:focus {
-    font-family: var(--main-font);
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: calc(24/16);
@@ -123,8 +113,6 @@ color: var(--accent-txt-color);
 }
 
 .portfolio-title{
-    font-family: var(--main-font);
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: calc(24/20);
@@ -132,9 +120,6 @@ letter-spacing: 0.02em;
 color: var(--titel-text-color);
 }
 .portfolio-article{
-    font-family: var(--main-font);
-font-style: normal;
-font-weight: 400;
 font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
@@ -144,9 +129,6 @@ color: var(--bazic-text-color);
     color: var(--white-text-color);
   }
 .adress-link{
-    font-family: var(--main-font);
-font-style: normal;
-font-weight: 400;
 font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
