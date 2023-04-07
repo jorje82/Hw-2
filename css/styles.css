@@ -40,6 +40,7 @@
   color: #ffffff;
 }
 .hero-button {
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -64,7 +65,8 @@
   cursor: pointer;
 }
 
-.hero-button:hover {
+.hero-button:hover,
+.hero-button:focus {
   background: #404bbf;
 }
 
