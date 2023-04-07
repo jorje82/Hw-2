@@ -53,8 +53,7 @@
   cursor: pointer;
 }
 
-
-.projects-btn{
+.projects-btn {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -62,16 +61,17 @@
   background: #f4f4fd;
   letter-spacing: 0.04em;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
-  0px 2px 2px rgba(0, 0, 0, 0.12);
+    0px 2px 2px rgba(0, 0, 0, 0.12);
   border-radius: 4px;
-  border: 1px solid #E7E9FC;
+  border: 1px solid #e7e9fc;
   color: #4d5ae5;
-  cursor: pointer;}
+  cursor: pointer;
+}
 
 .projects-btn:hover,
 .projects-btn:focus {
   background: #404bbf;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .hero-button:hover,
