@@ -52,16 +52,18 @@
   color: #ffffff;
   cursor: pointer;
 }
-.projects-btn {
+.project-btn-txt {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  background:#f4f4fd;
   line-height: 1.5;
   border-radius: 4px;
-  letter-spacing: 0.04em
+  letter-spacing: 0.04em;
   color: #4d5ae5;
   cursor: pointer;
+}
+.projrcts-btn{
+  background:#f4f4fd;
 }
 .project-item:hover,
 .project-item:focus{
