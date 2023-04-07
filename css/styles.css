@@ -95,10 +95,11 @@
   color: #2e2f42;
 }
 
-.h3 {
+.advantades-titl {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .advantades-article {
@@ -115,6 +116,13 @@
   text-transform: capitalize;
   color: #2e2f42;
 }
+.command-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;}
+
 .contakt{
     font-style: normal
 }
