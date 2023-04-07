@@ -95,7 +95,7 @@
   color: #2e2f42;
 }
 
-.advantades-titl {
+.advantades-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -122,6 +122,16 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;}
+
+.command-item{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+
+
+}
 
 .contakt{
     font-style: normal
