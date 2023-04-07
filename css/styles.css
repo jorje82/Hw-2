@@ -33,7 +33,7 @@
 .hero-title{
 font-weight: 700;
 font-size: 56px;
-line-height: 60px;
+line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color: #FFFFFF;
@@ -41,7 +41,7 @@ color: #FFFFFF;
 .hero-button {
     font-weight: 700;
     font-size: 16px;
-    line-height: calc(30 / 16);
+    line-height: 1.875;
     background: #4D5AE5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border: none;
@@ -61,14 +61,14 @@ color: #4D5AE5;
 .body.contakt-link{
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: calc(24/16);
 color: #434455;
 }
 
 
 .logo-link{
-    font-family: 'Raleway'sans-serif;
+    font-family: 'Raleway',sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -83,18 +83,18 @@ color: #434455;
 .h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: calc(24/20);
+    line-height: 1.2;
     color: #2E2F42;
 }
 .advantades-article {
 font-size: 16px;
-line-height: calc(24/16);
+line-height: 1.5;
 color: #434455;
 }
 .section-title{
 font-weight: 700;
 font-size: 36px;
-line-height: calc(40/36);
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -109,7 +109,7 @@ color: #2E2F42;
 .menu-link:focus {
 font-weight: 500;
 font-size: 16px;
-line-height: calc(24/16);
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #4D5AE5;
 }
@@ -117,13 +117,13 @@ color: #4D5AE5;
 .portfolio-title{
 font-weight: 500;
 font-size: 20px;
-line-height: calc(24/20);
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .portfolio-article{
 font-size: 16px;
-line-height: calc(24/16);
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
@@ -132,7 +132,7 @@ color: #434455;
   }
 .adress-link{
 font-size: 16px;
-line-height: calc(24/16);
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #F4F4FD;
 }
