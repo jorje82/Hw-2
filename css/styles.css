@@ -112,6 +112,9 @@
   text-transform: capitalize;
   color: #2e2f42;
 }
+.contakt{
+    font-style: normal
+}
 
 .menu-link {
   font-weight: 500;
@@ -123,7 +126,7 @@
 
 .menu-link:hover,
 .menu-link:focus {
-  color: 404bbf;
+  color: #404bbf;
 }
 
 .portfolio-title {
