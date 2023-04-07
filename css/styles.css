@@ -36,34 +36,34 @@ font-size: 56px;
 line-height: 60px;
 text-align: center;
 letter-spacing: 0.02em;
-color: var(--white-text-color);
+color: #FFFFFF;
 }   
 .hero-button {
     font-weight: 700;
     font-size: 16px;
     line-height: calc(30 / 16);
-    background: var(--accent-txt-color);
+    background: #4D5AE5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border: none;
     border-radius: 4px;
     letter-spacing: 0.06em;
-    color: var(--white-text-color);
+    color: #FFFFFF;
     cursor: pointer;
   }
  
  .hero-button:hover {
-    background: var(--hove-ocean-color);
+    background: #404BBF;
   }
 
 .contakt-link:hover{
-color: var(--accent-txt-color);
+color: #4D5AE5;
 }
 .body.contakt-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: calc(24/16);
-color: var(--bazic-text-color);
+color: #434455;
 }
 
 
@@ -74,22 +74,22 @@ color: var(--bazic-text-color);
     line-height: calc(21/18);
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--accent-txt-color);
+    color: #4D5AE5;
   }
  .logo-black{
-    color: var(--titel-text-color);
+    color: #2E2F42;
  }
 
 .h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: calc(24/20);
-    color: var(--titel-text-color);
+    color: #2E2F42;
 }
 .advantades-article {
 font-size: 16px;
 line-height: calc(24/16);
-color: var(--bazic-text-color);
+color: #434455;
 }
 .section-title{
 font-weight: 700;
@@ -98,11 +98,11 @@ line-height: calc(40/36);
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-color: var(--titel-text-color);
+color: #2E2F42;
 }
 
 .menu-link{
-    color: var(--titel-text-color);
+    color: #2E2F42;
 }
 
 .menu-link:hover,
@@ -111,7 +111,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
-color: var(--accent-txt-color);
+color: #4D5AE5;
 }
 
 .portfolio-title{
@@ -119,23 +119,23 @@ font-weight: 500;
 font-size: 20px;
 line-height: calc(24/20);
 letter-spacing: 0.02em;
-color: var(--titel-text-color);
+color: #2E2F42;
 }
 .portfolio-article{
 font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
-color: var(--bazic-text-color);
+color: #434455;
 }
 .logo-white {
-    color: var(--white-text-color);
+    color: #FFFFFF;
   }
 .adress-link{
 font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
-color:var(--white-text-color);
+color: #FFFFFF;
 }
 footer{
-    background-color: var(--titel-text-color);
+    background-color: #2E2F42;
 }
