@@ -56,16 +56,15 @@
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
+  background:#f4f4fd;
   line-height: 1.5;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.04em;
+  border-radius: 4px;
   color: #4d5ae5;
   cursor: pointer;
 }
-.project-btn-txt{
-
+.project-item:hover,
+.project-item:focus{
+  color: #ffffff;
 }
 .hero-button:hover,
 .hero-button:focus {
@@ -123,20 +122,21 @@
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;}
-
-.command-item{
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+  color: #2e2f42;
 }
-.command-list-item{
+
+.command-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.command-list-item {
   background-color: #ffffff;
 }
-.contakt{
-    font-style: normal
+.contakt {
+  font-style: normal;
 }
 
 .menu-link {
@@ -174,8 +174,8 @@ color: #434455;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.work{
-background: #F4F4FD;
+.work {
+  background: #f4f4fd;
 }
 footer {
   background-color: #2e2f42;
