@@ -64,7 +64,9 @@
   color: #4d5ae5;
   cursor: pointer;
 }
+.project-btn-txt{
 
+}
 .hero-button:hover,
 .hero-button:focus {
   background: #404bbf;
@@ -129,10 +131,10 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-
-
 }
-
+.command-list-item{
+  background-color: #ffffff;
+}
 .contakt{
     font-style: normal
 }
