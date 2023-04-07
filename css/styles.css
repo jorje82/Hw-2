@@ -18,7 +18,7 @@
     }
 
 .hero {
-        
+    background: #2E2F42;
       }
 .body {
     font-family: 'Roboto',sans-serif;
@@ -68,10 +68,10 @@ color: #434455;
 
 
 .logo-link{
-    font-family: 'Raleway';
+    font-family: 'Raleway'sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: calc(21/18);
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -128,13 +128,13 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .logo-white {
-    color: #FFFFFF;
+    color: #F4F4FD;
   }
 .adress-link{
 font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
-color: #FFFFFF;
+color: #F4F4FD;
 }
 footer{
     background-color: #2E2F42;
