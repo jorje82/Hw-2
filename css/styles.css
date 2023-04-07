@@ -52,6 +52,13 @@
   color: #ffffff;
   cursor: pointer;
 }
+.projects-btn:hover,
+.projects-btn:focus {
+background-color: #404bbf;}
+.project-btn-txt:hover,
+.project-btn-txt:focus{
+color: #ffffff;
+}
 .project-btn-txt{
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -60,13 +67,7 @@
   letter-spacing: 0.04em;
   color: #4d5ae5;
   cursor: pointer;}
-  .projects-btn:hover,
-  .projects-btn:focus {
-  background-color: #404bbf;}
-.project-btn-txt:hover,
-.project-btn-txt:focus{
-  color: #ffffff;
-}
+
 
 
 .hero-button:hover,
