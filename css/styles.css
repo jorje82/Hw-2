@@ -52,7 +52,7 @@
   color: #ffffff;
   cursor: pointer;
 }
-.project-btn-txt{
+.projects-btn{
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -62,13 +62,8 @@
   color: #4d5ae5;
   cursor: pointer;
 }
-.projects-btn{
-  background:#f4f4fd;
-}
-.project-item:hover,
-.project-item:focus{
-  color: #ffffff;
-}
+
+
 .hero-button:hover,
 .hero-button:focus {
   background: #404bbf;
